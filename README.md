@@ -1,5 +1,5 @@
 # InsertionSort
-A visual version of the InsertionSort sorting algorithm 
+A visual version of the InsertionSort sorting algorithm written in P5JS.
 
 ![InsertionSort](https://raw.githubusercontent.com/johnnyawesome/InsertionSort/master/InsertionSort/DemoImages/InsertionSort.gif)
 
